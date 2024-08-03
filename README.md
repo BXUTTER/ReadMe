@@ -1,2 +1,6 @@
 # ReadMe
-💾 - Chill person ----- 💻 - Programmer ----- 💻 - Hacking ----- 🕹️ - I love games
+
+💾 - Chill person ----- 
+💻 - Programmer ----- 
+💻 - Hacking ----- 
+🕹️- I love games
